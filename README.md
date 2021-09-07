@@ -24,6 +24,10 @@ Functionality;
 Information;
 Subjective quality.
 
-
+## Screenshots
+![Screenshot of e-Gabay](https://github.com/mivienrosario/e-Gabay/blob/main/Screenshots/Screenshot_20210524_153214_com.cit.egabay.jpg?raw=true)
+![Screenshot of e-Gabay](https://github.com/mivienrosario/e-Gabay/blob/main/Screenshots/Screenshot_20210524_153218_com.cit.egabay.jpg?raw=true)
+![Screenshot of e-Gabay](https://github.com/mivienrosario/e-Gabay/blob/main/Screenshots/Screenshot_20210524_153226_com.cit.egabay.jpg?raw=true)
+![Screenshot of e-Gabay](https://github.com/mivienrosario/e-Gabay/blob/main/Screenshots/Screenshot_20210524_153418_com.cit.egabay.jpg?raw=true)
 
 
