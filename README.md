@@ -12,6 +12,8 @@ Inadequate support, numerous school works, or adaptation challenges are some of 
 The mobile application was developed through Rapid Application Development methodology. The researchers collaborated with the Guidance Office of the department of College of Information Technology (CIT) and surveyed 51 CIT students in order to measure the level of usability of the developed mobile application: e-Gabay. 
 The findings show that guided intervention, writing down one’s thoughts, and mental literacy are possible ways to manage stress. Usability test results show that the developed mobile application is usable.
 
+##### Keywords: academic stress, stress management, mobile application 
+
 ## Objectives
 1. To identify the different stress management techniques;
 2. To determine the features e-Gabay: A Mobile Stress Management App;
@@ -23,5 +25,5 @@ Information;
 Subjective quality.
 
 
-Keywords: academic stress, stress management, mobile application 
+
 
